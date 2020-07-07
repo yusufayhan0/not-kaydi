@@ -1,5 +1,5 @@
 # not-kaydi
-Excel de olan verilerin filtrelenerek veritabanına kaydını yapar.
+Excel de olan verileri filtreleyerek veritabanına kaydını yapar.
 
 Denemek için excel klasöründen dosyaları test edebilirsiniz.
 
