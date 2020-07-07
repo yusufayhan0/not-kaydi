@@ -1,0 +1,10 @@
+C:\Users\Coder\Desktop\notKaydi\notKaydi\bin\Debug\notKaydi.exe.config
+C:\Users\Coder\Desktop\notKaydi\notKaydi\bin\Debug\notKaydi.exe
+C:\Users\Coder\Desktop\notKaydi\notKaydi\bin\Debug\notKaydi.pdb
+C:\Users\Coder\Desktop\notKaydi\notKaydi\obj\Debug\notKaydi.exe
+C:\Users\Coder\Desktop\notKaydi\notKaydi\obj\Debug\notKaydi.pdb
+C:\Users\Coder\Desktop\notKaydi\notKaydi\bin\Debug\EntityFramework.dll
+C:\Users\Coder\Desktop\notKaydi\notKaydi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Coder\Desktop\notKaydi\notKaydi\bin\Debug\EntityFramework.xml
+C:\Users\Coder\Desktop\notKaydi\notKaydi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Coder\Desktop\notKaydi\notKaydi\obj\Debug\notKaydi.csprojResolveAssemblyReference.cache
